@@ -31,8 +31,9 @@ section#featured-property > p{
   margin: auto;
 }
 
-section#details {
-  background-color: #F1F1F1;
+#details div{
+  float: left;
+  background-color: red;
+  width: 25%;
   text-align: center;
-  padding: 10px;
 }
