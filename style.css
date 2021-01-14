@@ -31,6 +31,6 @@ section#featured-property > p{
   margin: auto;
 }
 
-section#details ~ p {
+section#details {
   color: yellow;
 }
