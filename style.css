@@ -8,7 +8,7 @@ h1, nav {
   text-align :center;
 }
 
-selection id {
+id.featured-property {
   display: block;
   margin-left: auto;
   margin-right: auto;
