@@ -32,5 +32,7 @@ section#featured-property > p{
 }
 
 section#details {
-  display: horizontal;
+  background-color: #F1F1F1;
+  text-align: center;
+  padding: 10px;
 }
