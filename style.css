@@ -30,3 +30,7 @@ section#featured-property > p{
   max-width: 800px;
   margin: auto;
 }
+
+section#details {
+  display: horizontal;
+}
