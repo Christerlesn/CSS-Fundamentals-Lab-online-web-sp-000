@@ -25,7 +25,6 @@ figcaption {
   font-size: 14px;
 }
 
-p {
-  text-align: center;
-  max-width: 800px;
+section#featured-property{
+ color: blue
 }
