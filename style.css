@@ -26,5 +26,6 @@ figcaption {
 }
 
 section#featured-property{
+  max-width: 800px;
   text-align: center;
 }
